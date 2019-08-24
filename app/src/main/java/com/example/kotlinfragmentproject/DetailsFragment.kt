@@ -47,7 +47,7 @@ class DetailsFragment : Fragment() {
         Log.d("Tag",celeb.firstName)
 
 
-        firstName = celeb.firstName
+        //firstName = celeb.firstName
     }
 
 

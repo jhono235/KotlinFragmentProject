@@ -101,7 +101,7 @@ public class ListFragment : Fragment(){
     private fun onCelebrityClicked(celebItem: Celeb){
         listener?.onCelebClicked(celebItem)
         Toast.makeText(this.context, "Clicked: ${celebItem.firstName}", Toast.LENGTH_LONG).show()
-        
+
     }
 
 
