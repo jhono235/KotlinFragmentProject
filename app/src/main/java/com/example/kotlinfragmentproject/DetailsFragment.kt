@@ -47,7 +47,9 @@ class DetailsFragment : Fragment() {
         Log.d("Tag",celeb.firstName)
 
 
-        //firstName = celeb.firstName
+        tvFirstNameDetails.text = celeb.firstName
+        tvDescription.text = celeb.celebDescription
+        ivCelebPic.setImageResource(celeb.celebPic)
     }
 
 
