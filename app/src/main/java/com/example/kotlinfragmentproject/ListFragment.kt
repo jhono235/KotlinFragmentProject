@@ -29,7 +29,7 @@ public class ListFragment : Fragment(){
         Celeb("Denzel", "Washington", 64, "Denzel Washington is one of the biggest stars in Hollywood " +
                 "and most of his movies are must see. ", R.drawable.denzelwashington ),
         Celeb("Dwayne", "The Rock"+" Johnson", 47, "Dwayne Johnson transitioned from being one of the most popular " +
-                "wrestlers in the world to being one of the most sought after actors in the business. ", R.drawable.denzelwashington ),
+                "wrestlers in the world to being one of the most sought after actors in the business. ", R.drawable.therock ),
         Celeb("Samuel ", "Jackson", 70, "Samuel Leroy Jackson is an American actor and film producer. A recipient of critical acclaim and numerous " +
                 "accolades and awards, Jackson is the actor whose films have made the highest total gross revenue.", R.drawable.samuelljackson ),
         Celeb("Tom", "Cruise", 64, "Thomas Cruise is an American actor and film producer. He has received several accolades for his work, including three Golden" +
